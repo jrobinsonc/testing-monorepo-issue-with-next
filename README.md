@@ -1,1 +1,1 @@
-Testing monorepo issue with Next.js loading images during GitHub actions executions.
+Testing issue - statically importing images in Next.js that only happens during the exection of GitHub Actions but not when deploying to Vercel.
