@@ -1,1 +1,1 @@
-Testing issue - statically importing images in Next.js that only happens during the exection of GitHub Actions but not when deploying to Vercel.
+Testing issue - statically importing images in a Next.js monorepo built with Turbo and PNPM that only happens during the exection of GitHub Actions but not when deploying to Vercel.
